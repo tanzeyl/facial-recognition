@@ -11,5 +11,5 @@
   <li>Clone this repository.</li>
   <li>Navigate to the cloned folder and place your images that you want the model to train on in the "images" folder.</li>
   <li>Run "RecognitionFromLiveFeed.py" either on your terminal or on an IDE. It will open your web-cam and if the face in-front of the camera is found in the images folder (the files that you trained on), the model will recognize that face and tell us the name of the person (title of the image).</li>
-</ol>
+</ol><hr>
 <em>Note: This project uses Python 3.8. The lastest version of Python does not support face_recognition library yet. You can download Python 3.8.7 from this <a href = "https://www.python.org/downloads/release/python-387/">link</a></em>
